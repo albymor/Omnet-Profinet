@@ -1,0 +1,3 @@
+package profinet;
+
+@license(LGPL);
